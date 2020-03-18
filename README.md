@@ -86,4 +86,4 @@ What’s mildly interesting is that React doesn’t actually attach events to th
 
 
 ### Changelog
-- [x] <span style="background-color:green">CHANGELOG.md</span> is updated with user-facing content relevant to this PR.
+- [x] <mark>CHANGELOG.md</mark> is updated with user-facing content relevant to this PR.
